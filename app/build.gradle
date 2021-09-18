@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "net.droopia.test2"
+        applicationId "net.droopia.HluWeatherApp"
         minSdkVersion 24
         targetSdkVersion 29
         versionCode 1
