@@ -25,23 +25,6 @@ class MainActivity : AppCompatActivity() {
         val getWebPageObject: getWeatherPage = getWeatherPage("Belgrade")
         getWebPageObject.getHtmlPage(this, dayList)
 
-//        val time = "11"
-//        val temp = "13"
-//        val dew_point = "32"
-//        val row = TableRow(this)
-//        val cell_1 = TextView(this)
-//        cell_1.text = time
-//        val cell_2 = TextView(this)
-//        cell_2.text = temp
-//        val cell_3 = TextView(this)
-//        cell_3.text = dew_point
-//
-//        row.addView(cell_1)
-//        row.addView(cell_2)
-//        row.addView(cell_3)
-//        table.addView(row, TableLayout.LayoutParams(TableLayout.LayoutParams.WRAP_CONTENT, TableLayout.LayoutParams.WRAP_CONTENT))
-
-
 
     }
 
