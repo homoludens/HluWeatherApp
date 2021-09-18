@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.droopia.test2">
+    package="net.droopia.HluWeatherApp">
     <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Test2">
-        <activity android:name=".MainActivity">
+        <activity android:name="net.droopia.HluWeatherApp.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
