@@ -1,4 +1,4 @@
-package net.droopia.test2
+package net.droopia.HluWeatherApp
 
 import org.junit.Test
 

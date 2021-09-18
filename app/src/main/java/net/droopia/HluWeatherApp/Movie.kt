@@ -1,4 +1,4 @@
-package net.droopia.test2
+package net.droopia.HluWeatherApp
 
 class Movie {
     var title: String? = ""

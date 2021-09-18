@@ -1,4 +1,4 @@
-package net.droopia.test2
+package net.droopia.HluWeatherApp
 
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document

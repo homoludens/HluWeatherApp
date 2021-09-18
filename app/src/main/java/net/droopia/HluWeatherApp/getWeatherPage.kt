@@ -1,18 +1,11 @@
-package net.droopia.test2
+package net.droopia.HluWeatherApp
 
-import android.content.Context
 import android.view.View
-import android.widget.CheckBox
 import android.widget.TableLayout
 import android.widget.TableRow
 import android.widget.TextView
 import org.jsoup.Jsoup
-import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
-import org.jsoup.select.Elements
-
-import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 
 class getWeatherPage(val city: String) {
 

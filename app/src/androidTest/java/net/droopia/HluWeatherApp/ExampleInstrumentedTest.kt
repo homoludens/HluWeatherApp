@@ -1,4 +1,4 @@
-package net.droopia.test2
+package net.droopia.HluWeatherApp
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

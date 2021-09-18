@@ -1,12 +1,9 @@
-package net.droopia.test2
+package net.droopia.HluWeatherApp
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.view.View
-import android.widget.CheckBox
 import android.widget.TableLayout
-import android.widget.TableRow
-import android.widget.TextView
 
 
 class MainActivity : AppCompatActivity() {
