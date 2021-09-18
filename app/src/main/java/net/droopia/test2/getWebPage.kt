@@ -8,6 +8,11 @@ class getWebPage {
 
     val wiki = "https://en.wikipedia.org"
 
+    fun onCreate(url: String?) {
+        val url = url
+    }
+
+
     fun getHtmlPage() {
         Thread(Runnable {
             val doc =
