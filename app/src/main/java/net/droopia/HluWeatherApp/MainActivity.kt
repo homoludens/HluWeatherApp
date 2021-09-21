@@ -8,7 +8,7 @@ import android.widget.TableLayout
 
 class MainActivity : AppCompatActivity() {
 
-    var hourList = mutableListOf("time", "temp", "dew point")
+    var hourList = mutableListOf("time", "weather", "temp", "percip", "dew point")
     var dayList = mutableListOf<List<Any>>(hourList)
 
     override fun onCreate(savedInstanceState: Bundle?) {
